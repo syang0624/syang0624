@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Steven! 👋
+
+- 🔭 I’m currently working as a Software Engineering Manager
+- 🌱 I’m currently learning Machine Learning and AI in Conversation, Full-Stack Development
+- 💬 Ask me about Machine Learning, Food, and A Capella!
+- 📫 How to reach me: stevenhyang01@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've traveled/lived in more than 20 countries!
 
 <!--
 **syang0624/syang0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
