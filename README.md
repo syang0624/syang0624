@@ -7,6 +7,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've traveled/lived in more than 20 countries!
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syang0624)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **syang0624/syang0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
