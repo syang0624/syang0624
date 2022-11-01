@@ -1,6 +1,6 @@
 ### Hi there, I am Steven! 👋
 
-- 🔭 I’m currently working as a Software Engineering Manager
+- 🔭 I’m currently building some AI models in healthcare and websites!
 - 💞️ I am interested in various kinds of technologies: SWE, Data Science, and Machine Learning.
 - 🌱 I’m currently learning Machine Learning and AI in Conversation, Full-Stack Development
 - 💬 Ask me about Machine Learning, Food, and A Capella!
