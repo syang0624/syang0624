@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I've traveled/lived in more than 20 countries!
 
 
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=syang0624&theme=highcontrast&show_icons=true&count_private=true)-->
+![Github stats](https://github-readme-stats.vercel.app/api?username=syang0624&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
