@@ -8,5 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've traveled/lived in more than 30 countries!
 
+<a href="mailto:stevenhyang01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/stevenhyang01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=syang0624&theme=highcontrast&show_icons=true&count_private=true)
