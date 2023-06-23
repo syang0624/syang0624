@@ -1,4 +1,4 @@
-## Hi there, I am Steven! 👋
+# Hi there, I am Steven! 👋
 
 - 🔭 I’m currently building some data analytics models and websites :D
 - 💞️ I am interested in various kinds of technologies: Full-stack Development, Data Science, and Machine Learning.
