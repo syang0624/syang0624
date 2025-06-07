@@ -1,6 +1,7 @@
 # Hi there, I am Steven! 👋
 
 - 🔭 I’m currently building some data analytics models and websites :D
+- 🎓 I am majoring Computer Science at Minerva University, San Francisco, CA!
 - 💞️ I am interested in various kinds of technologies: Full-stack Development, Data Science, and Machine Learning.
 - 🌱 I’m currently learning Machine Learning and AI in Conversation, Full-Stack Development
 - 💬 Ask me about Frontend Dev, Data Science, Machine Learning, Traveling, Food, and A Capella!!
